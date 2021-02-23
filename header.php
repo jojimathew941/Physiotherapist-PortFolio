@@ -9,6 +9,10 @@
     <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
     <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
     <link href="css/main.css?ver=1.1.0" rel="stylesheet">
+    <a href="https://icons8.com/icon/80695/certificate">Certificate icon by Icons8</a>
+    <a href="https://icons8.com/icon/dTCjnKgREI23/presentation">Presentation icon by Icons8</a>
+    <a href="https://icons8.com/icon/18906/training">Training icon by Icons8</a>
+
     <noscript>
       <style type="text/css">
         [data-aos] {
@@ -23,7 +27,8 @@
       <div class="profile-page sidebar-collapse">
         <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
           <div class="container">
-            <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Creative CV</a>
+             <div class="navbar-translate">
+              <!-- <a class="navbar-brand" href="#" rel="tooltip">Creative CV</a>  -->
               <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
             </div>
             <div class="collapse navbar-collapse justify-content-end" id="navigation">
