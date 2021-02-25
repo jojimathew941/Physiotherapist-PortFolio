@@ -13,14 +13,30 @@
     <a href="https://icons8.com/icon/dTCjnKgREI23/presentation"></a>
     <a href="https://icons8.com/icon/18906/training"></a>
     <style>
+  /* *,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-      
-.intro {
-  background: #00a6ca;
+body {
+  font: normal 16px/1.5 "Helvetica Neue", sans-serif;
+  background: #456990;
+  color: #fff;
+  overflow-x: hidden;
+  padding-bottom: 50px;
+}   */
+/* INTRO SECTION */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+ .intro {
+  background: #F45B69;
   padding: 100px 0;
 }
 
-.container {
+.timelinecontainer {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
@@ -35,10 +51,9 @@ h1 {
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-.timeline ul {
+ .timeline ul {
   background: white;
   padding: 50px 0;
-  color: black;
 }
 
 .timeline ul li {
@@ -68,6 +83,7 @@ h1 {
   width: 400px;
   padding: 15px;
   background: #00a6ca;
+  color: white;
 }
 
 .timeline ul li div::before {
@@ -115,7 +131,7 @@ time {
 }
 
 .timeline ul li.in-view::after {
-  background: #F45B69;
+  background: #fcd800;
 }
 
 .timeline ul li div {
@@ -165,12 +181,12 @@ time {
   .timeline ul li:nth-child(even) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent #F45B69 transparent transparent;
+    border-color: transparent #00a6ca transparent transparent;
   }
-}
-    </style>
-
-    <noscript>
+}   */
+  </style>     
+  
+  <noscript>
       <style type="text/css">
         [data-aos] {
             opacity: 1 !important;
@@ -184,8 +200,7 @@ time {
       <div class="profile-page sidebar-collapse">
         <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
           <div class="container">
-             <div class="navbar-translate">
-              <!-- <a class="navbar-brand" href="#" rel="tooltip">Creative CV</a>  -->
+            <!-- <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Creative CV</a> -->
               <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
             </div>
             <div class="collapse navbar-collapse justify-content-end" id="navigation">
