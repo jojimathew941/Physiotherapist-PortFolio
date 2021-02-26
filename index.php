@@ -122,20 +122,12 @@ Chengannur, Alappuzha, Kerala.
   </div>
 </div> 
                          <!-- Portfolio -->
-
                          <div class="section" id="portfolio">
   <div class="container">
     <div class="row">
       <div class="col-md-6 ml-auto mr-auto">
         <div class="h4 text-center mb-4 title">Portfolio</div>
-        <div class="nav-align-center">
-          <ul class="nav nav-pills nav-pills-primary" role="tablist">
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><img style="padding-top: 16px;" src="https://img.icons8.com/doodle/48/000000/certificate.png"/></a></li>
-           
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><img style="padding-top: 16px;"src="https://img.icons8.com/color/48/000000/training.png"/></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><img style="padding-top: 16px;" src="https://img.icons8.com/plasticine/100/000000/presentation.png"/></a></li>
-          </ul>
-        </div>
+      
       </div>
     </div>
     <div class="tab-content gallery mt-5">
@@ -144,103 +136,46 @@ Chengannur, Alappuzha, Kerala.
           <div class="row">
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-              <div class="card bg-success text-white">
-       <div class="card-body">Basic card</div>
-      
-       </div>
-                </div>
+                  <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Recent Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-              <div class="card bg-info text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
+                  <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Startup Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
             </div>
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-              <div class="card bg-primary text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
+                  <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Food Order Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-              <div class="card bg-warning text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
+                  <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Web Advertising Project</div>
+                      <p>Web Development</p>
+                    </figcaption>
+                  </figure></a></div>
             </div>
           </div>
         </div>
       </div>
-      <div class="tab-pane" id="graphic-design" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-              <div class="card bg-danger text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-              <div class="card bg-secondary text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-              <div class="card bg-dark text-white">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-              <div class="card bg-light text-white">
-  <div class="card-body">Basic card</div>
-</div>>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tab-pane" id="Photography" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-              <div class="card">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-              <div class="card">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-              <div class="card">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-              <div class="card">
-  <div class="card-body">Basic card</div>
-</div>
-                </div>
-            </div>
+     
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>      
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
  <!-- Timeline       -->
 
  <div style="color:2c2c2c" class="h4 text-center mb-4 title">Work Experience</div>
